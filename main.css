@@ -1,0 +1,23 @@
+* {
+    margin: 0 auto;
+    text-align: center;
+}
+
+body {
+    display: grid;
+}
+
+canvas {
+    width: 65%;
+    height: auto;
+    border: 1px solid black;
+}
+
+input {
+  margin-top: 2%;
+  width: 65%;
+  border: none;
+  border-radius: 1em;
+  background-color: #535555;
+  color: #FFF;
+}
